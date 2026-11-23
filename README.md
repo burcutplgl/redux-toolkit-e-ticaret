@@ -1,17 +1,33 @@
-# React + Vite
+<h1 align="center">🛍️ ShopZon - E-Commerce Project</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p>ShopZon, React kullanılarak geliştirilmiş modern bir e-ticaret uygulamasıdır. FakeStore API kullanılarak ürünler listelenir, kategorilere göre filtrelenir ve ürün detayları görüntülenebilir.</p>
 
-Currently, two official plugins are available:
+<h3>✨ Özellikler</h3>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+<ul>
+  <li>🛒 Ürünleri listeleme</li>
+  <li>📂 Kategorilere göre ürün filtreleme</li>
+  <li>🔍 Ürün detaylarını görüntüleme</li>
+  <li>🛍️ Sepete ürün ekleme ve silme</li>
+  <li>🔢 Ürün miktarını belirleme</li>
+  <li>💰 Sepet toplam tutarını hesaplama</li>
+  <li>💾 LocalStorage ile sepet verilerini saklama</li>
+  <li>🎠 Otomatik kayan ürün slider'ı</li>
+</ul>
 
-## React Compiler
+<h3>💻 Kullanılan Teknolojiler</h3>
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+<ul>
+  <li>HTML5</li>
+  <li>CSS3</li>
+  <li>JavaScript</li>
+  <li>React</li>
+  <li>Redux Toolkit</li>
+  <li>React Router DOM</li>
+  <li>Tailwind CSS</li>
+  <li>React Slick</li>
+  <li>FakeStore API</li>
+</ul>
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# redux-toolkit-e-ticaret
+![](ss.gif)
